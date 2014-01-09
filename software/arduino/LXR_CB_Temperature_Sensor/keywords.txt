@@ -1,0 +1,23 @@
+#######################################
+# Datatypes (KEYWORD1)
+#######################################
+
+LXR_CB_Temperature_Sensor	KEYWORD1
+
+#######################################
+# Methods and Functions (KEYWORD2)
+#######################################
+
+begin	KEYWORD2
+get_temperature	KEYWORD2
+set_th	KEYWORD2
+turn_on_alarm	KEYWORD2
+set_tl	KEYWORD2
+get_th	KEYWORD2
+get_tl	KEYWORD2
+attach_thermostat_event_callback	KEYWORD2
+
+#######################################
+# Constants (LITERAL1)
+#######################################
+SENSOR_DEFAULT_ADDRESS LITERAL1
