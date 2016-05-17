@@ -1,11 +1,15 @@
-LXR_Childboard_Temperature_Sensor
-=================================
-Sämtliche Inhalte dieses Repositories stehen unter der CreativeCommons Lizenz CC BY-NC-SA 3.0 (Attribution-NonCommercial-ShareAlike 3.0 Unported) 
+LXRobotics P6_2 Temperatursensor Childboard
+==============
 
-http://creativecommons.org/licenses/by-nc-sa/3.0/deed.de
+![LXRobotics P6_2 Temperatursensor Childboard](https://www.lxrobotics.com/wp-content/uploads/mz_af_p6_2_side_small.jpg)
 
-http://creativecommons.org/licenses/by-nc-sa/3.0/deed.en
+## Weitere Informationen / Further Information
 
-Weitere Informationen unter:
+* **DE:** https://www.lxrobotics.com/produkte/arduino-childboards/temperatursensor
+* **EN:** https://www.lxrobotics.com/en/products/arduino-childboards/temperature-sensor
 
-http://www.lxrobotics.com/produkte/arduino-childboards/temperatursensor
+## Lizenz / License
+Sämtliche Inhalte dieses Repositories stehen unter der CreativeCommons Lizenz CC BY-NC-SA 3.0 (Attribution-NonCommercial-ShareAlike 3.0 Unported)
+
+* **DE:** http://creativecommons.org/licenses/by-nc-sa/3.0/deed.de
+* **EN:** http://creativecommons.org/licenses/by-nc-sa/3.0/deed.en
